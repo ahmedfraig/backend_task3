@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.white-icon {
+  filter: invert(100%);
+}
